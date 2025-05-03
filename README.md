@@ -1,5 +1,5 @@
 <h1>1. 🎨 Paleta de Cores</h1>
-<li>>Roxo Neon	#b437f7	Fundo principal	Representa criatividade, inovação e tecnologia.</li>
+<li>Roxo Neon	#b437f7	Fundo principal	Representa criatividade, inovação e tecnologia.</li>
 <li>Rosa Neon	#ff66c4	Ícones, elementos da logo	Transmite energia, ousadia e modernidade.</li>
 <li>Branco	#ffffff	Parte do nome na logo	Limpo, claro, traz contraste e legibilidade.</li>
 Preto ou Cinza Escuro (sugestão complementar)	#1e1e1e (ou #2c2c2c)	Texto secundário, sombreamento	Equilibra a intensidade das cores principais.
