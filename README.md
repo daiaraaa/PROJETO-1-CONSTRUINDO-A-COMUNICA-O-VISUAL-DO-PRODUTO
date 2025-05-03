@@ -2,7 +2,7 @@
 <li>Roxo Neon	#b437f7: Fundo principal	Representa criatividade, inovação e tecnologia.</li>
 <li>Rosa Neon	#ff66c4:	Ícones, elementos da logo	Transmite energia, ousadia e modernidade.</li>
 <li>Branco	#ffffff:	Parte do nome na logo	Limpo, claro, traz contraste e legibilidade.</li>
-<li>Preto ou Cinza Escuro: #1e1e1e (ou #2c2c2c)	Texto secundário, sombreamento	Equilibra a intensidade das cores principais.</li>
+<li>Preto ou Cinza Escuro: #1e1e1e (ou #2c2c2c) Sombreamento Equilibra a intensidade das cores principais.</li>
 
 <h1>2. 🔠 Tipografia</h1>
 <li>Hussar Bold	Moderna, ousada, estilizada	Títulos e logo	Forte presença visual, ideal para impacto. Utilizada com efeito de sombra para destacar a identidade.</li>
