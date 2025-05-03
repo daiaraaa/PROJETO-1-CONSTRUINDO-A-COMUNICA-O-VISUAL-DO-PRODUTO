@@ -7,7 +7,7 @@
 <h1>2. 🔠 Tipografia</h1>
 <li>Hussar Bold	Moderna, ousada, estilizada	Títulos e logo	Forte presença visual, ideal para impacto. Utilizada com efeito de sombra para destacar a identidade.</li>
 
-<h1>. 🖼️ Elementos Visuais</h1>
+<h1>3. 🖼️ Elementos Visuais</h1>
 <li>Estilo dos ícones: Ícones minimalistas com traços modernos, em tons de branco ou rosa neon sobre fundo roxo.</li>
 
 <li>Logo: Metade do nome em rosa neon #ff66c4, metade em branco #ffffff com sombra discreta, acompanhando um computador estilizado (também em rosa neon).</li>
